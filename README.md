@@ -162,9 +162,11 @@ translation to perform grammatical error correction.
 ## **Method 4**
 
 Model 1:
+
 <img src="https://i.ibb.co/8xh8qWK/7.jpg" alt="7" border="0"></a>
 
 Model 2:
+
 <img src="https://i.ibb.co/zF0PQ60/8.jpg" alt="8" border="0"></a>
 
 ## **Method 5**
