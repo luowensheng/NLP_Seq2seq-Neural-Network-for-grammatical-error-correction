@@ -179,6 +179,7 @@ Results using only 10721 sentences and a small percentage of the validation set:
 <img src="https://i.ibb.co/zN5RqC3/10.jpg" alt="10" border="0"></a>
 
 Some of the prediction results:
+
 <img src="https://i.ibb.co/18Rj5xj/11.jpg" alt="11" border="0"></a>
 
 # Comparisons
